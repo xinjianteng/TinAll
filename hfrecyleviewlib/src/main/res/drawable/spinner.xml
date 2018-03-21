@@ -1,0 +1,16 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+                android:variablePadding="true"
+                android:oneshot="false">
+
+
+  <item android:duration="60" android:drawable="@drawable/dropdown_load_001"/>
+  <item android:duration="60" android:drawable="@drawable/dropdown_load_002"/>
+  <item android:duration="60" android:drawable="@drawable/dropdown_load_003"/>
+  <item android:duration="60" android:drawable="@drawable/dropdown_load_004"/>
+  <item android:duration="60" android:drawable="@drawable/dropdown_load_005"/>
+  <item android:duration="60" android:drawable="@drawable/dropdown_load_006"/>
+  <item android:duration="60" android:drawable="@drawable/dropdown_load_007"/>
+  <item android:duration="60" android:drawable="@drawable/dropdown_load_008"/>
+
+</animation-list>

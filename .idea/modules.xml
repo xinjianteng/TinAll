@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tin.iml" filepath="$PROJECT_DIR$/Tin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinBook/TinBook.iml" filepath="$PROJECT_DIR$/TinBook/TinBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinBrowser/TinBrowser.iml" filepath="$PROJECT_DIR$/TinBrowser/TinBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinGeebook/TinGeebook.iml" filepath="$PROJECT_DIR$/TinGeebook/TinGeebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinLibrary/TinLibrary.iml" filepath="$PROJECT_DIR$/TinLibrary/TinLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinMusic/TinMusic.iml" filepath="$PROJECT_DIR$/TinMusic/TinMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X5WebDemo/X5WebDemo.iml" filepath="$PROJECT_DIR$/X5WebDemo/X5WebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XutilsApp/XutilsApp.iml" filepath="$PROJECT_DIR$/XutilsApp/XutilsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hfrecycleviewLibApp/hfrecycleviewLibApp.iml" filepath="$PROJECT_DIR$/hfrecycleviewLibApp/hfrecycleviewLibApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hfrecyleviewlib/hfrecyleviewlib.iml" filepath="$PROJECT_DIR$/hfrecyleviewlib/hfrecyleviewlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refresh-footer/refresh-footer.iml" filepath="$PROJECT_DIR$/refresh-footer/refresh-footer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refresh-header/refresh-header.iml" filepath="$PROJECT_DIR$/refresh-header/refresh-header.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refresh-layout/refresh-layout.iml" filepath="$PROJECT_DIR$/refresh-layout/refresh-layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshApp/refreshApp.iml" filepath="$PROJECT_DIR$/refreshApp/refreshApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxdemo/rxdemo.iml" filepath="$PROJECT_DIR$/rxdemo/rxdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils/xutils.iml" filepath="$PROJECT_DIR$/xutils/xutils.iml" />
+    </modules>
+  </component>
+</project>

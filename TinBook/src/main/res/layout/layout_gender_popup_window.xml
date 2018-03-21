@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016 JustWayward Team
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<com.zhy.autolayout.AutoRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="660px"
+    android:layout_height="wrap_content"
+    android:background="@color/common_bg"
+    >
+
+
+    <ImageView
+        android:id="@+id/mIvClose"
+        android:layout_width="80px"
+        android:padding="@dimen/ac_broad"
+        android:layout_alignParentRight="true"
+        android:layout_height="80px"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_close" />
+
+
+    <ImageView
+        android:id="@+id/mIvGender"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:layout_below="@+id/mIvClose"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/ic_launcher" />
+
+
+    <TextView
+        android:id="@+id/mTvContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mIvGender"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/ac_broad"
+        android:text="Tin会根据您的喜好\n推荐相对应的小说"
+        android:textColor="@color/common_h2"
+        android:textSize="@dimen/tt_36" />
+
+    <TextView
+        android:id="@+id/mTvSelect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mTvContent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/ac_margin"
+        android:gravity="center"
+        android:text="-请选择您的喜好-"
+        android:textColor="@color/common_h2"
+        android:textSize="@dimen/tt_36" />
+
+    <LinearLayout
+        android:layout_width="660px"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mTvSelect"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/mBtnMale"
+            android:layout_width="250px"
+            android:layout_height="100px"
+            android:text="男生"
+            android:textColor="@android:color/white"
+            android:background="@drawable/bg_male_button_selector"/>
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/mBtnFemale"
+            android:layout_width="250px"
+            android:layout_height="100px"
+            android:text="女生"
+            android:textColor="@android:color/white"
+            android:background="@drawable/bg_female_button_selector"/>
+
+    </LinearLayout>
+</com.zhy.autolayout.AutoRelativeLayout>

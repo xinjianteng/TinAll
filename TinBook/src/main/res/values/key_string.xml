@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--微信-->
+    <string name="wechat_pay">wx92ace7a5f67a56b4</string>
+    <string name="wechat_pay_key">725352b4f6ef4ad0a91fb6dec38171e7</string>
+    <string name="wechat_pay_secret">0343937f55ee94fe4d963df70bb36ba7</string>
+    <string name="pay_result_callback_msg">微信支付结果：%s</string>
+
+    <!--支付宝-->
+    <string name="alipay_pay_APPID">2017080207998386</string>
+    <string name="alipay_pay_RSA2_PRIVATE">MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6uvduBkvLJAQ+6APIR7CvFWEParZqyUFbIFBZeiSl2CEEY3Q4cvln0GptIy+lyaTjgYGgsSOqTY6MIV+F1VR2YJbrkO0XqiaEKao504KrOgOHzSYyueXm4eD5bV1nqOKQFr9Yd3f7z89UuUcMocZtPA0gfOFp8h8fgVXqUaUj/a9PrCWX8r1qWy5SCQmGsurAfJT3Sb5op/PgWn4jD0oQj7hGGGOKXwxs1fb5qv6FQWNHRU7pjJIofTkz6jOv44JR9RkxWcfh43y+lEElxB+fCeP2DlTiog7kOY0BQSsRb9lerpfRocFAX6BrGCJWtfR6HA7V4/q1w7R459mhZk+jAgMBAAECggEAMNyNtFena5+gEMnre3Pu8tGYVU1qMGU7WdoJzHAeuNrmQNy5Y7AKPTUXNDm51Rr/r5yKy/6uQ3kJ7PcqpL2e3V8G/tssfz3B2GGCrqD/F0kV9WokLa/hTdobYYlRoLdbmbKqHT8dwWGuchANXGvUnW7STIcBARUfOcJBNhBpMxJTRN+ni6mPKE2vvxrIje0bNQTQl+Pl8lIRwQVVgjeDXYhjqu0Iv3PPgUwaC1UcfsVRxhVzzmsK5G/9jLeVDamq/kQENy++cRia+4WU6W3xFpW4R7DA3qYpBnwO9VrnEfPHSL5yH/2H0wVDxwuVrGYYT8GHRyyto0RqKu9QK2fNUQKBgQDl7Mx56iINn2Y5ptaHvaRwz+Ipl1+KeVNPs8mewf1g/7VQNqiNk4onRp5i1ceUCCvqt+ro6rMMnmbHnVjfHhE+PzdqHW1OmuKldEpeSRHKPJpd/rEqvqugveXQmtQxBsvjqcGqC1XtCjJS0g40iRzktRlbZvatJlk1KEo8R6GcawKBgQDP6CMQcCk6LWEfh7Sf1vl4fW74SMi4ymnaVNrv9Ljqf4w9leH644V6l3tJcvHS9NbD6REiLfrGzCF9mDkFEw6cJjjJrSzN0SGXgEKBWjLH9r9+mcPUt2+LvgYmCg2rjWlwRcpq0d7bgNDIUO5kF7vVTIOl+QLvuUX2SST+txVnqQKBgE1MhB4Eofg0e7isJ3mxPySSLzXOZ1d1nJWyGvmdvGKs9TcHeTlHve2gZ0VRG+zfpmwd8wLlTNbUNjer5aH1SNTFigrJ4+LGXaZEZ3A1Xp7AKyGoq8V0Ht1Gmom8U9Q7tbZPbwWNFBFCGVMQvafZ5PXbELBS+GGT/+/IINUNO/8LAoGBAKjFyBkjA8Sva+Vdk3oh2BhAsuGorBCeeDl9otEh9y6dZenkjzLMmeF/sNxaDAb1LJaSz47Qhn/028cJ2FfPNY/60ySciP93Im7K9rHs18ZN/vu1tSwr0Mg+9NzSUnCN9ibm8L+wKNpFgrbqQ+tK/PbVCxWjxAd4flvE2txPIXgpAoGBAISxckva6i0QPWPci55mQPfuqCZT1NuxUilsWdlyTpk4Wimt3M+wmv4t7p7Q+B0R4AT57cekbo9zh4gYnCEbQgWbEEV6de1JUvkbrEqLOSa/H2KjOsFqJF8uR+dmEXamUz7KXvsb7hjRErCvRbMxzmeq5M4UqnsHywwYpqsz5BKT</string>
+
+    <string name="qq_appid" >1106647600</string>
+    <string name="qq_key" >sXMdKNBnbHPFOzNH</string>
+
+    <!--944094492-->
+    <string name="weibo_appid">944094492</string>
+    <string name="weibo_url">http://www.geeboo.com</string>
+    <string name="weibo_key">1984196546</string>
+    <string name="weibo_secret">2367e74a9037ede6ad8eda27b7d16be0</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--activity左右边距-->
+    <dimen name="tt_60">60px</dimen>
+    <dimen name="tt_54">54px</dimen>
+    <dimen name="tt_48">48px</dimen>
+    <dimen name="tt_44">44px</dimen>
+    <dimen name="tt_42">42px</dimen>
+    <dimen name="tt_40">40px</dimen>
+    <dimen name="tt_36">36px</dimen>
+    <dimen name="tt_32">32px</dimen>
+    <dimen name="tt_30">30px</dimen>
+    <dimen name="tt_28">28px</dimen>
+    <dimen name="tt_24">24px</dimen>
+    <dimen name="tt_20">20px</dimen>
+    <dimen name="tt_tab_h">132px</dimen>
+    <dimen name="tt_tab_strip_h">126px</dimen>
+    <dimen name="ac_margin">40px</dimen>
+    <dimen name="ac_broad">20px</dimen>
+
+
+</resources>

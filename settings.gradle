@@ -1,0 +1,5 @@
+include ':TinBook', ':rxdemo', ':TinLibrary', ':TinGeebook',
+        ':test', ':TinMusic', ':TinBrowser',
+        ':hfrecyleviewlib', ':hfrecycleviewLibApp',
+        ':refresh-header', ':refresh-footer', ':refresh-layout',
+        ':refreshApp', ':XutilsApp', ':xutils', ":X5WebDemo"
