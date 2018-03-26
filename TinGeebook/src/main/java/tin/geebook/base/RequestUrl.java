@@ -14,7 +14,6 @@ public class RequestUrl {
 
 
     public void init(Context mContenxt){
-
     }
 
 
