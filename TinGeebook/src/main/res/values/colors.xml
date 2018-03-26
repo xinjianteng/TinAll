@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#ff2c343f</color>
+    <color name="colorPrimaryDark">#ff2c343f</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <color name="main_menu_normal_bg_color">#ffffffff</color>
+    <color name="main_menu_press_bg_color">#f4f2f3</color>
+    <color name="main_menu_text_color">#ff2c343f</color>
+
+
+
+
+
+
+
+    <color name="tab_layout_bg_color">#ffffffff</color>
+    <color name="tab_bottom_line_bg_color">#ffeeeeee</color>
+    <color name="tab_title_textsize_color">#ff2c343f</color>
+    <color name="tab_submit_textsize_color">#ff999999</color>
+
+    <color name="login_layout_bg_color">#ffffffff</color>
+    <color name="login_account_line_bg_color">#ffeeeeee</color>
+    <color name="login_forgetPsw_textcolor">#ff999999</color>
+    <color name="login_loginBtn_textcolor">#ff2c343f</color>
+    <color name="login_register_textcolor">#ffffffff</color>
+    <color name="login_geebook_rule_textcolor">#ff999999</color>
+    <color name="login_line_bg_color">#ffeeeeee</color>
+    <color name="login_thirdlogin_textcolor">#ff333333</color>
+
+
 </resources>

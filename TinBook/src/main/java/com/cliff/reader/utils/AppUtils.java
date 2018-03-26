@@ -27,8 +27,6 @@ public class AppUtils {
     private static Thread mUiThread;
 
 
-
-
     private static Handler sHandler = new Handler(Looper.getMainLooper());
 
     public static void init(Context context) {

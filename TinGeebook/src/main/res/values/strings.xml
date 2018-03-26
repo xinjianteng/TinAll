@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">TinGeebook</string>
+    <string name="app_name">藏书馆</string>
+
+    <!--app_menu-->
+    <string name="main_menu_library">藏书</string>
+    <string name="main_menu_borrow">借阅</string>
+    <string name="main_menu_find">发现</string>
+    <string name="main_menu_me">我的</string>
+    <string name="login_geebook_rule">我已同意《藏书馆服务协议》</string>
+
+
 </resources>
