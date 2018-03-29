@@ -1,4 +1,4 @@
-package tin.geebook.base;
+package tin.geebook.bean;
 
 import android.text.TextUtils;
 
